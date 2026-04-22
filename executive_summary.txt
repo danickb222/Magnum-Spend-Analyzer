@@ -1,0 +1,27 @@
+
+══════════════════════════════════════════════════════════════
+EXECUTIVE SUMMARY — SUPPLIER SPEND ANALYSIS
+Generated: 22 April 2026, 16:34
+══════════════════════════════════════════════════════════════
+
+Total spend of €24,950,000 is distributed across 20 suppliers 
+in 6 countries. The top supplier by spend is Manpowergroup, 
+and the highest-spend market is Germany.
+
+CONSOLIDATION OPPORTUNITY
+2 markets show critical fragmentation with more than 3 active 
+suppliers. Consolidation to 2-3 strategic partners per market is recommended.
+Monte Carlo simulation projects savings of €2,219,244 (expected case), 
+with a 90% confidence interval of €1,049,493 to €3,451,821 annually.
+
+KEY RISKS
+Supplier dependency and compliance risk are elevated in high-regulatory 
+markets. Immediate review of single-source dependencies is recommended.
+
+RECOMMENDED NEXT STEPS
+1. Initiate consolidation in highest-priority markets per roadmap
+2. Renegotiate contracts with top suppliers leveraging consolidated volume
+3. Establish preferred supplier program with 3-5 global strategic partners
+4. Implement quarterly spend monitoring using this tool
+
+══════════════════════════════════════════════════════════════
